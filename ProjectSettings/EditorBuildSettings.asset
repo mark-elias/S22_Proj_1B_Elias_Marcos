@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene_Roll_Character.unity
     guid: 0e095488dc44c0f4db43d964e93fa13f
+  - enabled: 1
+    path: Assets/Scenes/SettingsScene.unity
+    guid: 79bd66c18a73ada4a8019080f86c9ff5
   m_configObjects: {}

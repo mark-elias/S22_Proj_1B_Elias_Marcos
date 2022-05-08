@@ -24,6 +24,11 @@ public class SceneManagerScript : MonoBehaviour
 
     }
 
+    public void GoToRollCharacterScene()
+    {
+        SceneManager.LoadScene("Scene_Roll_Character");
+    }
+
     public void GoToAboutScene()
     {
         SceneManager.LoadScene("AboutScene");
