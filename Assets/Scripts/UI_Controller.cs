@@ -111,15 +111,7 @@ public class UI_Controller : MonoBehaviour {
 
     // ------------- FUNCTIONS -------------------------------------------------
 
-    void Start()
-    {
-
-    }
-
-    void Update()
-    {
-      
-    }
+ 
     //--------------------------------------------------------------------------------
     // JSON
     //
@@ -130,6 +122,10 @@ public class UI_Controller : MonoBehaviour {
         string json = JsonUtility.ToJson(player);
 
         Output_JSON.text = json;
+
+        PersistentManagerScript.Instance.BUTTON_AVAILABLE = true;
+
+        Debug.Log(PersistentManagerScript.Instance.BUTTON_AVAILABLE);
     }
     //
     //------------------------------------------------------------------------------------

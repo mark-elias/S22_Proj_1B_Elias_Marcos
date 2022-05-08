@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class PersistentManagerScript : MonoBehaviour
 {
+    public bool BUTTON_AVAILABLE;
 
     public static PersistentManagerScript Instance { get; private set; }
 
-    public int PERSISTENT_VARIABLE;
+
 
     private void Awake()
     {

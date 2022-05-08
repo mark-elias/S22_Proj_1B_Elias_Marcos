@@ -10,6 +10,10 @@ using UnityEngine.UI;
 public class SceneManagerScript : MonoBehaviour
 {
 
+    void Start()
+    {
+       
+    }
     public void GoToMainMenu()
     {
         SceneManager.LoadScene("MainMenuScene");
