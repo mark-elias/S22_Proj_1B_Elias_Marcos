@@ -14,14 +14,13 @@ public class SceneManagerScript : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenuScene");
 
-        PersistentManagerScript.Instance.PERSISTENT_VARIABLE = +1;
+        
     }
 
     public void GoToPlayGameScene()
     {
         SceneManager.LoadScene("PlayGameScene");
 
-        PersistentManagerScript.Instance.PERSISTENT_VARIABLE = +1;
 
     }
 
