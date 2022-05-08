@@ -1,0 +1,18 @@
+All of the art for this project I made myself using Adobe Fresco and Adobe Creative Cloud Express.
+
+The Youtube Channels I watched for help with the scripts and with Unity in general are:
+
+
+Adobe Creative Cloud Express. (n.d.). Retrieved May 7, 2022, from https://express.adobe.com/ 
+
+Imphenzia. (2020, July 24). Learn unity - the most basic tutorial I'll ever make. YouTube. Retrieved May 1, 2022, from https://youtu.be/pwZpJzpE2lQ 
+
+Reso Coder. (2017, March 24). Singletons in unity - simple tutorial for Beginners. YouTube. Retrieved May 1, 2022, from https://youtu.be/CPKAgyp8cno 
+
+spartan, edo. (2020, January 13). Unity integer float parse inputfield. YouTube. Retrieved May 7, 2022, from https://youtu.be/kLI1vD-hwzA 
+
+Unity Mechanics. (2020, October 24). Disabling/enabling a gameobject when a button is clicked in Unity. YouTube. Retrieved May 7, 2022, from https://youtu.be/uBJvOa78t-g 
+
+Tarodev. (2021, January 26). Scrolling background in 90 seconds - unity tutorial. YouTube. Retrieved May 7, 2022, from https://youtu.be/-6H-uYh80vc 
+
+Folwar, S. (n.d.). Free music for creators. Free Music For YouTube Videos &amp; Creators • Uppbeat. Retrieved May 7, 2022, from https://uppbeat.io/browse/artist/simon-folwar 
